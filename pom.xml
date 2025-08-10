@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>mcp_shopping_list</artifactId>
+	<artifactId>mcp-shopping-list</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mcp_shopping_list</name>
 	<description>Demo project for Spring Boot</description>
@@ -41,6 +41,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.18.0</version>
+		</dependency>
+
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
