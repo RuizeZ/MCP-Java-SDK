@@ -1,4 +1,4 @@
-package com.example.mcp_shopping_list;
+package com.example.mcpShoppingList;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
